@@ -1,7 +1,6 @@
 # Benedict Abub
 
 - I’m currently learning Python, C and a bit of CS
-- 📫 How to reach me: dfgertwer@proton.me
 - Welcome to see my pet-projects! It's full of love and necessity
 
 
