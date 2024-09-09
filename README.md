@@ -1,6 +1,6 @@
 # Benedict Abub
 
-- I’m currently learning Python, C and a bit of CS
+- I’m currently learning Python and a bit of CS
 - Welcome to see my pet-projects! It's full of love and necessity
 
 
