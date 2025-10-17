@@ -1,6 +1,6 @@
 # Benedict Abub
 
-- Welcome to see my pet-projects! It's full of love and necessity
+- Welcome to see my pet-projects. It's full of love and necessity
 
 
 <!---
