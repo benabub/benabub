@@ -1,7 +1,7 @@
 # Benedict Abub
 
 - Welcome to see my pet-projects. It's full of love and necessity
-- ▶️ My algorithm visualizations: [YouTube](https://www.youtube.com/benabub)
+- ▶️ My algorithm visualizations: [YouTube](https://www.youtube.com/@benabub)
 
 <!---
 benabub/benabub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
