@@ -2,7 +2,7 @@
 
 - Welcome to see my pet-projects. It's full of love and necessity
 - ▶️ My algorithm visualizations: [YouTube](https://www.youtube.com/@benabub)
-- 🧑‍🤝‍🧑 Reddit AlgoViz Sub: [Reddit](https://www.redit.com/r/AlgoViz)
+- 🧑‍🤝‍🧑 Reddit AlgoViz Sub: [Reddit](https://www.reddit.com/r/AlgoViz)
 
 
 <!---
