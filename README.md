@@ -2,6 +2,8 @@
 
 - Welcome to see my pet-projects. It's full of love and necessity
 - ▶️ My algorithm visualizations: [YouTube](https://www.youtube.com/@benabub)
+- 🧑‍🤝‍🧑 Reddit AlgoViz Sub: [Reddit](https://www.redit.com/r/AlgoViz)
+
 
 <!---
 benabub/benabub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
